@@ -6,6 +6,7 @@
 .dice{
     display: inline-block;
     text-align: center;
+    margin: 0px 30px;
 }
 body{
     background-color: #2b282a;
